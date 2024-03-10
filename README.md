@@ -1,4 +1,4 @@
 # lbscollege
 
 This is my first repository
-Author-SATYAM VISHWAKARMA 
+Author-SATYAM VISHWAKARMA (lbs college gonda )
